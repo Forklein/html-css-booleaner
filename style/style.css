@@ -14,6 +14,10 @@
     width: 15%;
 }
 
+h3,h5{
+    color: gray;
+}
+
 .blue{
     color: #4ea0ff;
 }
@@ -28,4 +32,20 @@
 
 .row-color{
     background-color: lightblue;
+}
+
+.imagefooter1{
+    width: 150px;
+    height: 150px;
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.imagefooter2{
+    width: 150px;
+    height: 150px;
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    color: white;
 }
