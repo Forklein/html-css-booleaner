@@ -1,11 +1,18 @@
-header{
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.copertina{
     background-image: url('../img/pattern.png');
     background-color: #4ea0ff;
     height: 200px;
 }
-img{
+
+.copertina > img{
     width: 10%;
 }
+
 .blue{
     color: #4ea0ff;
 }
