@@ -66,3 +66,19 @@ footer{
 ul{
     margin-left: 1%;
 }
+
+table{
+    border-collapse: collapse;
+}
+
+.first-column{
+    width: 30%;
+}
+
+.second-column{
+    width: 30%;
+}
+
+.third-column{
+    width: 40%;
+}
