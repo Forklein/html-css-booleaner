@@ -7,12 +7,20 @@
     background-image: url('../img/pattern.png');
     background-color: #4ea0ff;
     height: 200px;
+    position: relative;
 }
 
 .copertina > img{
-    width: 10%;
+    width: 15%;
+    position: absolute;
+    left: 0;
+    bottom: 10%;
 }
 
 .blue{
     color: #4ea0ff;
+}
+
+.text{
+    background-color: yellow;
 }
